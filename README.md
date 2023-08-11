@@ -2,7 +2,7 @@
 Predicting adult's income with Census information from 1994
 
 # Features: 
-age, workclass, education/number of years of education(I will only use one of the columns since they are a bit repetitive and can make education too much of an impact on the result), marital status/relationship, occupation, race, sex, capital gains, capital loss, hours per week
+Age, workclass, education/number of years of education(I will only use one of the columns since they are a bit repetitive and can make education too much of an impact on the result), marital status/relationship, occupation, race, sex, capital gains, capital loss, hours per week
 
 # Model: 
 Logistic regression &  K nearest neighbor
